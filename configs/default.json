@@ -1,0 +1,15 @@
+{
+  "fps": 8,
+  "size": 512,
+  "strength": 0.25,
+  "steps": 28,
+  "guidance": 7.0,
+  "seed": 819850065,
+  "temporal_mix": 0.0,
+  "conditioning_scale": 0.75,
+  "canny_low": 100,
+  "canny_high": 200,
+  "prompt": "photorealistic person, original face, blonde hair hairstyle",
+  "negative_prompt": "extra cat ears, multiple cat ears, four cat ears, malformed ears, asymmetrical ears, floating ears, detached ears, giant ears, animal face, cat face, furry face, distorted face, deformed head, duplicate features",
+  "controlnet_model": "lllyasviel/control_v11p_sd15_canny"
+}
